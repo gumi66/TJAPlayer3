@@ -1,0 +1,1 @@
+<PostBuildEvent>copy /y "$(TargetDir)FDK.MemoryRenderer.dll" "$(SolutionDir)Test\"</PostBuildEvent>
